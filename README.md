@@ -1,4 +1,5 @@
-# nsw_crime_data_iod_mini_project
+# IOD_Mini_Project_1_crimedata
+
  EDA & Hypothesis Testing for IOD Mini Project 1
  
 This is the first assignment set to us in the Institute of Data - Data Science course. The focus was primarily on Exploratory Data Analysis, as well as Hypothesis Testing.
